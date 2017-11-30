@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"project","l":"HelloDate"}]
