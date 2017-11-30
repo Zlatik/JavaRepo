@@ -12,6 +12,12 @@
 #js files
 *.js
 
+#png 
+*.png
+
+#jpeg
+*.jpeg
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
